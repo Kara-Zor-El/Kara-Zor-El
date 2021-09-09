@@ -9,7 +9,7 @@
 
 ## Connect With me: 
 
-[<img align="left" alt="My Instagram" width"22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
 
 <br />
 
