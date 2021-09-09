@@ -25,3 +25,10 @@
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/rust.svg" />]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" />]
+
+<br />
+<br />
+
+---
+
+[instagram]: https://www.instagram.com/karatheok/
