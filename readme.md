@@ -30,7 +30,8 @@
 <br />
 
 ---
-
+### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kara-Zor-El&show_icons=true&theme=dracula)
+I am goign to work on getting these stats up over time
 
 [instagram]: https://www.instagram.com/karatheok/
