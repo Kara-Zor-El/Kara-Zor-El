@@ -31,4 +31,6 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kara-Zor-El&show_icons=true&theme=dracula)
+
 [instagram]: https://www.instagram.com/karatheok/
