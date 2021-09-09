@@ -4,7 +4,7 @@
 - I love working on projects in a variety of languages in her spare time
 - I have experiences in HTML, CSS, JS, Processing, Arduino, C# and Rust
 - I tend to be most familiar in C#
-- 2021 Goal: I want to have my own CLI based app done using Rust
+- 2021 Goal: I want to have my own CLI-based app done using Rust
 - Fun fact: I love 3D Printing and drawing
 
 ## Connect With me: 
@@ -32,6 +32,6 @@
 ---
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kara-Zor-El&show_icons=true&theme=dracula)
-I am goign to work on getting these stats up over time
+<p> I am going to work on getting these stats up over time as I am still learning</p>
 
 [instagram]: https://www.instagram.com/karatheok/
