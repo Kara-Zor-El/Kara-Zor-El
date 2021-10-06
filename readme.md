@@ -8,8 +8,18 @@
 - Fun fact: I love 3D Printing and drawing
 
 ## Connect With me: 
-
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
+<p>
+	<a href="https://img.shields.io/badge/Instagram-%40Karatheok-%23B93C8F&?logo=instagram&link=https://www.instagram.com/karatheok/" alt="instagram">
+		<img src="https://img.shields.io/badge/Instagram-%40Karatheok-%23B93C8F&?logo=instagram&link=https://www.instagram.com/karatheok/" />
+	</a>
+	<a href="https://img.shields.io/badge/Matrix-%40kmp3e%3Amatrix.org-brightgreen?logo=matrix&link=https://bit.ly/3Dc9Rd9" alt="Matrix">
+		<img src="https://img.shields.io/badge/Matrix-%40kmp3e%3Amatrix.org-brightgreen?logo=matrix&link=https://bit.ly/3Dc9Rd9" />
+	</a>
+	<a href="https://img.shields.io/badge/Discord-%40kmp3e%239430-brightgreen?logo=discord&link=https://discord.com/
+" alt="Discord">
+		<img src="https://img.shields.io/badge/Discord-%40kmp3e%239430-brightgreen?logo=discord&link=https://discord.com/" />
+	</a>
+</p>
 
 <br />
 
@@ -33,5 +43,3 @@
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kara-Zor-El&show_icons=true&theme=dracula)
 <p> I am going to work on getting these stats up over time as I am still learning</p>
-
-[instagram]: https://www.instagram.com/karatheok/
