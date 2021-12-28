@@ -41,5 +41,6 @@
 
 ---
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kara-Zor-El&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kara-zor-el&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kara-zor-el&hide=ShaderLab,HLSL&layout=compact&theme=dracula)
 <p> I am going to work on getting these stats up over time as I am still learning</p>
