@@ -3,9 +3,8 @@
 ## I'm a Student who does programming in her spare time!
 - I love working on projects in a variety of languages in her spare time
 - I have experiences in HTML, CSS, JS, Processing, Arduino, C# and Rust
-- I tend to be most familiar in C#
-- 2021 Goal: I want to have my own CLI-based app done using Rust
-- Fun fact: I love 3D Printing and drawing
+- I tend to be most familiar in Rust
+- Fun fact: I love 3D Printing
 
 ## Connect With me: 
 <p>
