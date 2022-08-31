@@ -2,7 +2,7 @@
 
 ## I'm a Student who does programming in her spare time!
 - I love working on projects in a variety of languages in her spare time
-- I have experiences in HTML, CSS, JS, Processing, Arduino, C# and Rust
+- I have experiences in HTML, CSS, JS, Java, Processing, Arduino, C, C# and Rust
 - I tend to be most familiar in Rust
 - Fun fact: I love 3D Printing
 
