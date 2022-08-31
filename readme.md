@@ -24,16 +24,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/rust.svg" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" />
+<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/vim.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Terminal.svg" />
 <img align="left" alt="Processing" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/processingfoundation.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arduino.svg" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/rust.svg" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" />
 
 <br />
 <br />
