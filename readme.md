@@ -2,8 +2,8 @@
 
 ## I'm a Student who does programming in her spare time!
 - I love working on projects in a variety of languages in her spare time
-- I have experiences in HTML, CSS, JS, Java, Processing, Arduino, C, C# and Rust
-- I tend to be most familiar in Rust
+- I have experiences in Flutter/Dart, Rust, HTML, CSS, JS, Java, Processing, Arduino, C and C#
+- I tend to be most familiar in Rust and Flutter/Dart
 - Fun fact: I love 3D Printing
 
 ## Connect With me: 
@@ -23,6 +23,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/rust.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/vim.svg" />
