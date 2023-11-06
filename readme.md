@@ -6,7 +6,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Instagram-%40Karatheok-brightgreen?style=for-the-badge&logo=instagram&link=https://www.instagram.com/karatheok&color=E2405F" alt="Instagram: @Karatheok">
 	<img src="https://img.shields.io/badge/Matrix-%40kmp3e%3Amatrix.org-brightgreen?style=for-the-badge&logo=Matrix&link=https://matrix.org/&color=23BE8A" alt="Matrix: @kmp3e:matrix.org">
-	<img src="https://img.shields.io/badge/Discord-%40kmp3e%239430-brightgreen?style=for-the-badge&logo=Discord&link=https://www.discord.com&color=5865F2" alt="Discord: @kmp3e">
+	<img src="https://img.shields.io/badge/Discord-%40kmp3e-brightgreen?style=for-the-badge&logo=Discord&link=https://www.discord.com&color=5865F2" alt="Discord: @kmp3e">
     
 </p>
 <p align="center">
