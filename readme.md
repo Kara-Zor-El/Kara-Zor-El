@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a **Honours Computer Science** graduate from **Trent University** with hands-on experience shipping real software — from backend APIs and CI/CD pipelines to cross-platform mobile apps.
+I'm a Honours Computer Science graduate from Trent University with hands-on experience shipping real software — from backend APIs and CI/CD pipelines to cross-platform mobile apps.
 
 Most of my current open-source energy goes into **[Grain](https://grain-lang.org/)**, a strongly-typed functional language that compiles to WebAssembly. I'm currently working on building editor tooling around it such as:
 - [tree-sitter grammar](https://github.com/Kara-Zor-El/tree-sitter-grain) for syntax highlighting and parsing
