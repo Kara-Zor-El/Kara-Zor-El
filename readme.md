@@ -25,9 +25,8 @@ Most of my current open-source energy goes into **[Grain](https://grain-lang.org
 - [Neovim plugin](https://github.com/Kara-Zor-El/grain.nvim) with LSP integration
 - Upstream contributions to the Grain ecosystem primarily working on getting autocomplete working
 
-I previously built **[JellyBook](https://github.com/JellyBookOrg/JellyBook)**, an open-source Flutter eBook & comic reader, and interned at **HomeEquity Bank** building Python backend features and GitHub Actions test suites. Outside of industry work, I teach coding and robotics to kids aged 6–14 at **MakerKids**.
+I previously built **[JellyBook](https://github.com/JellyBookOrg/JellyBook)**, an open-source Flutter eBook & comic reader, and interned at HomeEquity Bank building Python backend features and GitHub Actions test suites. Outside of industry work, I teach coding and robotics to kids aged 6–14 at MakerKids.
 
-I care about clean, well-tested code, thoughtful design, and creating an amazing developer experience.
 
 ---
 
